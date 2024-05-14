@@ -30,7 +30,7 @@
 
 ## Landscape
 
-* What field is the company in? ([Hospitality industry](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/))
+* What field is the company in? ([Hospitality Industry](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/))
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
