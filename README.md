@@ -8,7 +8,7 @@
 
 * Founders:
 
-(![Brian Chesky](https://www.bing.com/images/search?view=detailV2&ccid=syYG5ZjM&id=D0B14025817B0056793BA96BA75490F374DEBB2A&thid=OIP.syYG5ZjMcZSIQ97ASy6FdwHaLH&mediaurl=https%3a%2f%2fpress.airbnb.com%2fwp-content%2fuploads%2fsites%2f4%2f2016%2f10%2fbrian.jpg%3ffit%3d1000%252C1500&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b32606e598cc71948843dec04b2e8577%3frik%3dKrvedPOQVKdrqQ%26pid%3dImgRaw%26r%3d0&exph=1500&expw=1000&q=Brian+Chesky&simid=608045714915354988&FORM=IRPRST&ck=BF6533F7301C6367EE27F090EFDBF6F7&selectedIndex=0&itb=0&ajaxhist=0&ajaxserp=0))
+(![Brian Chesky](https://press.airbnb.com/wp-content/uploads/sites/4/2016/10/brian.jpg?fit=1000%2C1500))
 Nathan Blecharczyk
 
  Joe Gebbia
