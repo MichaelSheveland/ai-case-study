@@ -40,7 +40,7 @@ Joe Gebbi
 * Trends and innovations: Utilizing technology in differnet ways such as putting people who are in business travel in a house where space was not used by the homeowners and providing increased accommodations such a yard and or full kitchen that hotels may not typically have. As well automating the bookings online and providing ratings to the consumer for the property and the host. 
 
 * Competitors
-* **1-Vrbo: Known for family-friendly rentals.
+  1-Vrbo: Known for family-friendly rentals.
   2-Booking.com: A global travel giant that also offers short-term rentals.
   3-Expedia: A travel booking platform with vacation rentals.
   4-Agoda: A leader in the Asian travel market.
