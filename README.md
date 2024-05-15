@@ -1,4 +1,4 @@
-# ai-case-study
+# AI-case-study
 
 ## Overview and Origin
 
@@ -19,13 +19,13 @@ Joe Gebbi
 
 ![Joe Gebbia](https://www.theglobeandmail.com/resizer/e2NhD2bpbcHY7o4JwLYaPdewcGo=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L3BPBE64NFBAZDZNCRBXCTWMNA.JPG)
 
-* Company Creation: Created around the idea of making a few extra bucks and provideds beds and breakfast to those that are willing to pay and provide space when hotels could not. 
+* Company Creation: Created around the idea of making a few extra bucks and providing beds and breakfast to those that are willing to pay and provide space when hotels could not. 
 
 * Company Funding: Airbnb has raised a total of $6.4B in funding over 30 rounds with latest funding raised June 3rd 2020. 
 
 ## Business Activities
 
-* Solving the Problem: Roommates couldn't afford their San Francisco rent and hotels were hard to come by. From their they decied to turn their loft in a designer bed and breakfas to make a few bucks. 
+* Solving the Problem: The problem start when 2 roommates couldn't afford their San Francisco rent and hotels were hard to come by. Then from their they decied to turn their loft in a designer bed and breakfast to make a few bucks. 
 
 * Intended Customer: The intended customer is the short-term rental market. Airbnb has a valuation currently of $20 billion and growing as consumers see rent prices go up and the lift of covid allowing for increased travel for the need of vacation rental market.
 
@@ -50,17 +50,17 @@ Joe Gebbi
 
 * Business impact: The buiness has seen revenue of $9.92 billion world wide in 2023. Further more there is a potential market cap of 73.34 billon dollars world wide ([stats](https://www.statista.com/statistics/339845/company-value-and-equity-funding-of-airbnb/))
 
-* Core metrics: Airbnb leans on data to validate product ideas and this is seen with certain key KPI. Such as percentage of bookings completed, number of repeat bookings and average rating of listings. Based on these KPI airbnb is able to gain valuable insights into its performance.([Airbnb Metrics](https://finmodelslab.com/blogs/kpi-metrics/airbnb-marketplace-kpi-metrics))
+* Core metrics: Airbnb leans on data to validate product ideas and this is seen with certain key KPI. Such as percentage of bookings completed, number of repeat bookings and average rating of listings. Based on these KPI airbnb is able to gain valuable insights into its performance. ([Airbnb Metrics](https://finmodelslab.com/blogs/kpi-metrics/airbnb-marketplace-kpi-metrics))
 
-* How is your company performing relative to competitors in the same field? 
+* Performance Relative to Competitors:Airbnb strengths are their global prence and brand recognition along with diverse accomdation options. However the weakness of regulatory challanges are seen that many cities and countries have put in place to concerns over housing affordability and impace on local communities. As well Airbnb is depenent on its host when compared to its competitors who may not be when looking at chain hotels. Economic downturn has cause a decress in revenue and profitability making the company vulnerable to economic flucatations. Also seen is the competitive disadvantage of consisten quailty and standardization that its competitors do not have to face as much. ([performance analaysis](https://pitchgrade.com/companies/airbnb))
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Advise to Airbnb: I beleive Airbnb has done a great job using technology however I believe that they could do better by increasing its AI capabilities. Such as being able to reasonably being able give advice for issues found or provide partial  refunds for the cost incurred such as the house smells and air freshners are needed or door lock is not closing. As well any other maintance issues that would typically need a host to respond to could be resolved with the guest at that current time. 
 
-* Why do you think that offering this product or service would benefit the company?
+* Benefits to Airbnb:  I beleive this could increase the customer satisfaction so that guest do not need wait for a response from a host. This would help address the known weakness of the company and that is standardization in which issues can adrise from.  
 
-* What technologies would this additional product or service utilize?
+* Technologies to Utilize: Utilizing AI that could automate customer serivce items. Then from there expanding its ability within AI throughout the company such as data metrics and reporting to host so that they can be best prepared for guest. 
 
-* Why are these technologies appropriate for your solution?
+* Solution:
 
