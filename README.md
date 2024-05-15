@@ -35,12 +35,12 @@
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
 * Competitors
-  #1-Vrbo: Known for family-friendly rentals1.
-  ##2-Booking.com: A global travel giant that also offers short-term rentals1.
-  **3-Expedia: A travel booking platform with vacation rentals1.
-  *4-Agoda: A leader in the Asian travel market1.
-  5-Trip.com: Another Asian travel agent with rental options1.
-  6-Wimdu: Offers European home rentals
+* 1-Vrbo: Known for family-friendly rentals.
+  2-Booking.com: A global travel giant that also offers short-term rentals.
+  3-Expedia: A travel booking platform with vacation rentals.
+  4-Agoda: A leader in the Asian travel market.
+  5-Trip.com: Another Asian travel agent with rental options.
+  6-Wimdu: Offers European home rentals.
 
 ## Results
 
