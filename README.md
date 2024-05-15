@@ -27,15 +27,14 @@ Joe Gebbi
 
 * Solving the Problem: Roommates couldn't afford their San Francisco rent and hotels were hard to come by. From their they decied to turn their loft in a designer bed and breakfas to make a few bucks. 
 
-* Intended Customer: Is there any information about the market size of this set of customers?
+* Intended Customer: The intended customer is the short-term rental market. Airbnb has a valuation currently of $20 billion and growing as consumers see rent prices go up and the lift of covid allowing for increased travel for the need of vacation rental market.
 
-* Unfair Advatage: (What is the unfair advantage they utilize?)
+* Unfair Advatage: Airbnb has the ability of outreaching indivudals who do not have to comply with license and taxes as normal buisness would such as hotels and other bed and breakfast that may be regulated. ([pros and cons](https://netivist.org/debate/airbnb-pros-and-cons))
 
-* Technology: Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+* Technology: Airbnb utilizes many different technologies such as JavaScript, Reach, Google Analytics, etc. . Airbnb uses a GraphGL unions for a backend-drive UI. This allows a page that can query on maybe different set of possibilities you may be looking for. This is used as a starting point for the search and can be updated based on what the user is looking for. Further info can be seen in stackshare over the specifics ([stackshare](https://stackshare.io/airbnb/airbnb))
 ## Landscape
 
-* What field is the company in? ([Hospitality Industry](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/))
+* What field is the company in? ([Hospitality Industry & Technology](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/))
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 
@@ -49,11 +48,11 @@ Joe Gebbi
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Business impact: The buiness has seen revenue of $9.92 billion world wide in 2023. Further more there is a potential market cap of 73.34 billon dollars world wide ([stats](https://www.statista.com/statistics/339845/company-value-and-equity-funding-of-airbnb/))
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* Core metrics: Airbnb leans on data to validate product ideas and this is seen with certain key KPI. Such as percentage of bookings completed, number of repeat bookings and average rating of listings. Based on these KPI airbnb is able to gain valuable insights into its performance.([Airbnb Metrics](https://finmodelslab.com/blogs/kpi-metrics/airbnb-marketplace-kpi-metrics))
 
-* How is your company performing relative to competitors in the same field?
+* How is your company performing relative to competitors in the same field? 
 
 ## Recommendations
 
