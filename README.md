@@ -8,11 +8,11 @@
 
 * Founders:
 
-(![Brian Chesky](https://press.airbnb.com/wp-content/uploads/sites/4/2016/10/brian.jpg?fit=1000%2C1500))
+![Brian Chesky](https://press.airbnb.com/wp-content/uploads/sites/4/2016/10/brian.jpg?fit=1000%2C1500)
 
-(![Nathan Blecharczyk](https://metaunfolded.com/wp-content/uploads/2021/12/Nathan-Blecharczyk.jpg))
+![Nathan Blecharczyk](https://metaunfolded.com/wp-content/uploads/2021/12/Nathan-Blecharczyk.jpg)
 
-(![Joe Gebbia](https://www.theglobeandmail.com/resizer/e2NhD2bpbcHY7o4JwLYaPdewcGo=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L3BPBE64NFBAZDZNCRBXCTWMNA.JPG))
+![Joe Gebbia](https://www.theglobeandmail.com/resizer/e2NhD2bpbcHY7o4JwLYaPdewcGo=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L3BPBE64NFBAZDZNCRBXCTWMNA.JPG)
 
 * Company Creation: Created around the idea of making a few extra bucks and provideds beds and breakfast to those that are willing to pay and provide space when hotels could not. 
 
