@@ -7,10 +7,11 @@
 * Incorporated: 2008
 
 * Founders:
-
+  
 Brian Chesk
 
 ![Brian Chesky](https://press.airbnb.com/wp-content/uploads/sites/4/2016/10/brian.jpg?fit=1000%2C1500)
+
 Nathan Blecharczyk
 
 ![Nathan Blecharczyk](https://metaunfolded.com/wp-content/uploads/2021/12/Nathan-Blecharczyk.jpg)
