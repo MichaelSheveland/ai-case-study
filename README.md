@@ -6,17 +6,17 @@
 
 * Incorporated: 2008
 
-* Founders:
+* [Founders:](https://www.businessinsider.com/how-airbnb-was-founded-a-visual-history-2016-2#the-pair-knew-a-big-design-conference-was-coming-to-san-francisco-and-it-was-making-hotels-hard-to-come-by-2)
   
-Brian Chesk
+>***Brian Chesk***
 
 ![Brian Chesky](https://press.airbnb.com/wp-content/uploads/sites/4/2016/10/brian.jpg?fit=1000%2C1500)
 
-Nathan Blecharczyk
+>***Nathan Blecharczyk***
 
 ![Nathan Blecharczyk](https://metaunfolded.com/wp-content/uploads/2021/12/Nathan-Blecharczyk.jpg)
 
-Joe Gebbi
+>***Joe Gebbi***
 
 ![Joe Gebbia](https://www.theglobeandmail.com/resizer/e2NhD2bpbcHY7o4JwLYaPdewcGo=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L3BPBE64NFBAZDZNCRBXCTWMNA.JPG)
 
