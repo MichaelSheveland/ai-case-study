@@ -35,7 +35,7 @@
 * Technology: Airbnb utilizes many different technologies such as JavaScript, Reach, Google Analytics, etc. . Airbnb uses a GraphGL unions for a backend-drive UI. This allows a page that can query on maybe different set of possibilities you may be looking for. This is used as a starting point for the search and can be updated based on what the user is looking for. Further info can be seen in stackshare over the specifics ([stackshare](https://stackshare.io/airbnb/airbnb))
 ## Landscape
 
-*Field of Business: ([Hospitality Industry & Technology](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/))
+* Field of Business: ([Hospitality Industry & Technology](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/))
 
 * Trends and innovations: Utilizing technology in differnet ways such as putting people who are in business travel in a house where space was not used by the homeowners and providing increased accommodations such a yard and or full kitchen that hotels may not typically have. As well automating the bookings online and providing ratings to the consumer for the property and the host. 
 
