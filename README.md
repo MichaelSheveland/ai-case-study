@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company: Airbnb
+* Name of company: _Airbnb_
 
 * Incorporated: 2008
 
@@ -32,7 +32,7 @@
 
 * Unfair Advatage: Airbnb has the ability of outreaching indivudals who do not have to comply with license and taxes as normal buisness would such as hotels and other bed and breakfast that may be regulated. ([pros and cons](https://netivist.org/debate/airbnb-pros-and-cons))
 
-* Technology: Airbnb utilizes many different technologies such as JavaScript, Reach, Google Analytics, etc. . Airbnb uses a GraphGL unions for a backend-drive UI. This allows a page that can query on maybe different set of possibilities you may be looking for. This is used as a starting point for the search and can be updated based on what the user is looking for. Further info can be seen in stackshare over the specifics ([stackshare](https://stackshare.io/airbnb/airbnb))
+* Technology: Airbnb utilizes many different technologies such as JavaScript, Reach, Google Analytics, etc. . Airbnb uses a GraphGL unions for a backend-drive UI. This allows a page that can query on maybe different set of possibilities you may be looking for. This is used as a starting point for the search and can be updated based on what the user is looking for. Further info can be seen in stackshare over the specifics c
 ## Landscape
 
 * Field of Business: ([Hospitality Industry & Technology](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/))
@@ -65,3 +65,12 @@
 
 * Suitable Solution: Bringing together more technolgy and implementing AI further into what Airbnb does can help customer satisfaction to both the guest and consumer providing the ability for increased revenue and setting Airbnb further ahead from its consumer. This is a suitable solution as Airbnb advances they can change the way AI interacts with the consumer as the environment changes such as challanges seen duirng Covid.
 
+## Resources
+* [Founders and how they Started](https://www.businessinsider.com/how-airbnb-was-founded-a-visual-history-2016-2#the-pair-knew-a-big-design-conference-was-coming-to-san-francisco-and-it-was-making-hotels-hard-to-come-by-2)
+* [Brian Chesky](https://press.airbnb.com/wp-content/uploads/sites/4/2016/10/brian.jpg?fit=1000%2C1500)
+* [Nathan Blecharczyk](https://metaunfolded.com/wp-content/uploads/2021/12/Nathan-Blecharczyk.jpg)
+* [Joe Gebbia](https://www.theglobeandmail.com/resizer/e2NhD2bpbcHY7o4JwLYaPdewcGo=/1200x900/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L3BPBE64NFBAZDZNCRBXCTWMNA.JPG)
+* [Pros and Cons](https://netivist.org/debate/airbnb-pros-and-cons)
+* [Hospitality Industry & Technology](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/)
+* [Airbnb Metrics](https://finmodelslab.com/blogs/kpi-metrics/airbnb-marketplace-kpi-metrics)
+* [Performance Analaysis](https://pitchgrade.com/companies/airbnb)
