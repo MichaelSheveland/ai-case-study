@@ -75,4 +75,4 @@
 * [Hospitality Industry & Technology](https://www.sureplaces.com/guides/how-airbnb-disrupted-the-hotel-industry/)
 * [Airbnb Metrics](https://finmodelslab.com/blogs/kpi-metrics/airbnb-marketplace-kpi-metrics)
 * [Performance Analaysis](https://pitchgrade.com/companies/airbnb)
-* [AirBNB AI Uses].(https://www.bdodigital.com/insights/analytics/airbnb-artificial-intelligence-transform-business)
+* [AirBNB AI Uses](https://www.bdodigital.com/insights/analytics/airbnb-artificial-intelligence-transform-business)
